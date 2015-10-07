@@ -1,0 +1,4 @@
+var RecipeConstants = {
+  RESET_RECIPES: "RESET_RECIPES",
+  CREATE_RECIPE: "CREATE_RECIPE"
+};
